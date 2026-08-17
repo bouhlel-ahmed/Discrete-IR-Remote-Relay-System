@@ -13,5 +13,6 @@ The circuit also includes a **power-on reset** to ensure a defined initial state
 ## Documentation
 
 The complete project documentation, including the circuit design, operation, calculations, and testing, is available here:
+(engineering decisions , videos, pcb deisgn..)
 
 [Project Documentation (PDF)](Project%20Documentation.pdf)
