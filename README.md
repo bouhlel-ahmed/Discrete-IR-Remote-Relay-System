@@ -6,13 +6,12 @@ Microcontroller-free IR remote relay control system using a TSOP receiver, RC fi
 
 This project receives commands from an IR remote and toggles a relay using a chain of hardware logic:
 
-**IR Remote → TSOP Receiver → RC Filter → 555 Timer → CD4013 T Flip-Flop → Transistor Driver → Relay**
+**IR Remote → TSOP Receiver → RC Filter → 555 Timer → CD4013 D Flip-Flop → Transistor Driver → Relay**
 
 The circuit also includes a **power-on reset** to ensure a defined initial state.
 
 ## Documentation
 
-The complete project documentation, including the circuit design, operation, calculations, and testing, is available here:
-(engineering decisions , videos, pcb deisgn..)
+The complete project documentation, including the engineering decisions,circuit design, operation, calculations , videos, pcb deisgnand, is available here:
 
 [Project Documentation (PDF)](Project%20Documentation.pdf)
